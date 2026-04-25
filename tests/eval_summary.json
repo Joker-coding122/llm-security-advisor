@@ -1,0 +1,17 @@
+{
+  "total": 30,
+  "attacks": 20,
+  "benigns": 10,
+  "tp": 20,
+  "fp": 0,
+  "tn": 10,
+  "fn": 0,
+  "accuracy": 1.0,
+  "attack_recall": 1.0,
+  "precision": 1.0,
+  "false_positive_rate": 0.0,
+  "f1": 1.0,
+  "avg_latency_ms": 0.004,
+  "max_latency_ms": 0.013,
+  "timestamp": "2026-04-25 20:00:13"
+}

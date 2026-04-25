@@ -1,0 +1,18 @@
+.env
+__pycache__/
+*.pyc
+.DS_Store
+
+# 阶段 6：审计日志不入版本控制（含敏感用户输入）
+logs/
+*.log
+
+# 本地 IDE / 个人阶段笔记不入库
+.vscode/
+
+# 本地截图先不入库；需要 README 截图时请放入 docs/assets/
+截屏*.png
+
+# 教学过程/个人规划文件，不属于公开项目交付物
+role.md
+流程文件.md
